@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-28T06:45:42.001Z",
+  "updatedAt": "2026-09-28T14:35:04.237Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-09-28T06:45:41.997Z",
-    "lastSuccessAt": "2026-09-28T06:45:41.997Z",
-    "lastRunStatus": "checked-3-posts"
+    "lastCheckedAt": "2026-09-28T14:35:04.232Z",
+    "lastSuccessAt": "2026-09-28T14:35:04.232Z",
+    "lastRunStatus": "checked-5-posts"
   },
   "latestObservedPost": {
-    "id": "2104451970983768270",
-    "text": "@melvindvivas olalala",
-    "url": "https://x.com/thsottiaux/status/2104451970983768270",
-    "postCreatedAt": "2026-09-28T06:03:43.000Z"
+    "id": "2104467346945675347",
+    "text": "Taken by none other than the incredible @ah20im",
+    "url": "https://x.com/thsottiaux/status/2104467346945675347",
+    "postCreatedAt": "2026-09-28T07:04:49.000Z"
   },
   "latest": {
     "reset": {
