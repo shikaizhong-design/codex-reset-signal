@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-29T18:38:55.972Z",
+  "updatedAt": "2026-09-29T22:39:23.497Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-09-29T18:38:55.968Z",
-    "lastSuccessAt": "2026-09-29T18:38:55.968Z",
-    "lastRunStatus": "checked-16-posts"
+    "lastCheckedAt": "2026-09-29T22:39:23.494Z",
+    "lastSuccessAt": "2026-09-29T22:39:23.494Z",
+    "lastRunStatus": "checked-12-posts"
   },
   "latestObservedPost": {
-    "id": "2104994835212226681",
-    "text": "Live demos suffered from rolling out all the updates at the same time, but were committed to keep doing these live in the future. \n\nAlmost all the things we announced will be available today. Can’t see what you will do with it.",
-    "url": "https://x.com/thsottiaux/status/2104994835212226681",
-    "postCreatedAt": "2026-09-29T18:00:52.000Z"
+    "id": "2105041299934187874",
+    "text": "Full recap of all the announcements\n\nhttps://t.co/KGwZP3g6UC",
+    "url": "https://x.com/thsottiaux/status/2105041299934187874",
+    "postCreatedAt": "2026-09-29T21:05:30.000Z"
   },
   "latest": {
     "reset": {
