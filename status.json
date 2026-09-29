@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-29T13:07:34.908Z",
+  "updatedAt": "2026-09-29T18:38:55.972Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-09-29T13:07:34.902Z",
-    "lastSuccessAt": "2026-09-29T13:07:34.902Z",
-    "lastRunStatus": "checked-3-posts"
+    "lastCheckedAt": "2026-09-29T18:38:55.968Z",
+    "lastSuccessAt": "2026-09-29T18:38:55.968Z",
+    "lastRunStatus": "checked-16-posts"
   },
   "latestObservedPost": {
-    "id": "2104838506363408740",
-    "text": "That was yesterday, today is DevDay. And it's all good news. I'm surprised we've kept it all under wraps.",
-    "url": "https://x.com/thsottiaux/status/2104838506363408740",
-    "postCreatedAt": "2026-09-29T07:39:40.000Z"
+    "id": "2104994835212226681",
+    "text": "Live demos suffered from rolling out all the updates at the same time, but were committed to keep doing these live in the future. \n\nAlmost all the things we announced will be available today. Can’t see what you will do with it.",
+    "url": "https://x.com/thsottiaux/status/2104994835212226681",
+    "postCreatedAt": "2026-09-29T18:00:52.000Z"
   },
   "latest": {
     "reset": {
