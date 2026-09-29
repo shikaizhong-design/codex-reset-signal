@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-29T06:16:05.461Z",
+  "updatedAt": "2026-09-29T13:07:34.908Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-09-29T06:16:05.457Z",
-    "lastSuccessAt": "2026-09-29T06:16:05.457Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-09-29T13:07:34.902Z",
+    "lastSuccessAt": "2026-09-29T13:07:34.902Z",
+    "lastRunStatus": "checked-3-posts"
   },
   "latestObservedPost": {
-    "id": "2104467346945675347",
-    "text": "Taken by none other than the incredible @ah20im",
-    "url": "https://x.com/thsottiaux/status/2104467346945675347",
-    "postCreatedAt": "2026-09-28T07:04:49.000Z"
+    "id": "2104838506363408740",
+    "text": "That was yesterday, today is DevDay. And it's all good news. I'm surprised we've kept it all under wraps.",
+    "url": "https://x.com/thsottiaux/status/2104838506363408740",
+    "postCreatedAt": "2026-09-29T07:39:40.000Z"
   },
   "latest": {
     "reset": {
