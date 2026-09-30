@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-30T01:37:36.725Z",
+  "updatedAt": "2026-09-30T07:28:58.134Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-09-30T01:37:36.721Z",
-    "lastSuccessAt": "2026-09-30T01:37:36.721Z",
-    "lastRunStatus": "checked-10-posts"
+    "lastCheckedAt": "2026-09-30T07:28:58.127Z",
+    "lastSuccessAt": "2026-09-30T07:28:58.127Z",
+    "lastRunStatus": "checked-16-posts"
   },
   "latestObservedPost": {
-    "id": "2105109005135962589",
-    "text": "@danshipper @every @sama Always fun working with you!",
-    "url": "https://x.com/thsottiaux/status/2105109005135962589",
-    "postCreatedAt": "2026-09-30T01:34:32.000Z"
+    "id": "2105189201679630385",
+    "text": "@_ak_111 Basically",
+    "url": "https://x.com/thsottiaux/status/2105189201679630385",
+    "postCreatedAt": "2026-09-30T06:53:12.000Z"
   },
   "latest": {
     "reset": {
