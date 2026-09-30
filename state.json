@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2105189201679630385",
-  "lastCheckedAt": "2026-09-30T14:11:39.101Z",
-  "lastSuccessAt": "2026-09-30T14:11:39.101Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 222,
+  "sinceId": "2105348026416140781",
+  "lastCheckedAt": "2026-09-30T19:26:40.404Z",
+  "lastSuccessAt": "2026-09-30T19:26:40.404Z",
+  "lastRunStatus": "checked-8-posts",
+  "postsScanned": 230,
   "matches": [
     {
       "version": "6318f9d8a246e13f79341d9899d5506a36c826782b7fa20a328fe7948e26e8a0",
@@ -583,15 +583,23 @@
     "2105176545304436942": "c30a39a0cacccc490e12b5c7bdc49b79cd0cc16cd141679b9ee81980a9a5d011",
     "2105178959327756396": "966c937e5a0060a60eb4595fbc3fb8b7073c227d23b7f56c1c78306e926e31d5",
     "2105188957437002208": "7cedb58ce60e722aa96a3488c8d4ffa4c6ce14e77a27269f14d5a7fcc849d152",
-    "2105189201679630385": "2799f3f557146fa0719b8479f6f196b2a2e1341fafaf8626392777749e8a602d"
+    "2105189201679630385": "2799f3f557146fa0719b8479f6f196b2a2e1341fafaf8626392777749e8a602d",
+    "2105305239398285514": "d1e32b043b98c6452869f1087c8c07a09607abf8fb518fc5e9df73c28835c765",
+    "2105308727947755599": "2dccb826737787ff5c42ea41110f5b02677b5094f6cba9c59ed6ba82da4112a4",
+    "2105308913176658267": "b9baeeca7de38d9b141808a269f2d463b39e9bdf83fa01daabe7dfe963e8b31b",
+    "2105309464492691524": "43103c5ddcee9ea8c0daa1585991fbeb6ec46b26b6ed08e46d4f9099d4e75e1b",
+    "2105310973532012793": "b10b0e25108ff6b3315eb0b933af6fc58f4c89d8c336db4a4708e0036492021a",
+    "2105344469923221941": "85e8ecadb7e100c1e8f5751ceed2c2b6084b033a582b04ce6abc5514f8eb9f39",
+    "2105344482149613853": "dc404d75b872e869725888f792be375de838fe829bb9ae8993c5ced71883b49a",
+    "2105348026416140781": "59260f12a004285633bd03768bc0ed730a3da161ad7772c072c23f81acc8b6af"
   },
   "eventParserVersion": 5,
   "latestObservedPost": {
-    "id": "2105189201679630385",
-    "canonicalId": "2105189201679630385",
-    "text": "@_ak_111 Basically",
-    "createdAt": "2026-09-30T06:53:12.000Z",
-    "url": "https://x.com/thsottiaux/status/2105189201679630385",
+    "id": "2105348026416140781",
+    "canonicalId": "2105348026416140781",
+    "text": "Hi! What would you like to see us ship for dots and space in the next two weeks? Or how can we improve things in other parts of the product.",
+    "createdAt": "2026-09-30T17:24:19.000Z",
+    "url": "https://x.com/thsottiaux/status/2105348026416140781",
     "media": []
   }
 }

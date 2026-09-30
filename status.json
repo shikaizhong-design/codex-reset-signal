@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-30T14:11:39.109Z",
+  "updatedAt": "2026-09-30T19:26:40.407Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-09-30T14:11:39.101Z",
-    "lastSuccessAt": "2026-09-30T14:11:39.101Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-09-30T19:26:40.404Z",
+    "lastSuccessAt": "2026-09-30T19:26:40.404Z",
+    "lastRunStatus": "checked-8-posts"
   },
   "latestObservedPost": {
-    "id": "2105189201679630385",
-    "text": "@_ak_111 Basically",
-    "url": "https://x.com/thsottiaux/status/2105189201679630385",
-    "postCreatedAt": "2026-09-30T06:53:12.000Z"
+    "id": "2105348026416140781",
+    "text": "Hi! What would you like to see us ship for dots and space in the next two weeks? Or how can we improve things in other parts of the product.",
+    "url": "https://x.com/thsottiaux/status/2105348026416140781",
+    "postCreatedAt": "2026-09-30T17:24:19.000Z"
   },
   "latest": {
     "reset": {
