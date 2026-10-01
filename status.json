@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-01T16:22:00.327Z",
+  "updatedAt": "2026-10-01T21:11:39.226Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-01T16:22:00.315Z",
-    "lastSuccessAt": "2026-10-01T16:22:00.315Z",
-    "lastRunStatus": "checked-4-posts"
+    "lastCheckedAt": "2026-10-01T21:11:39.220Z",
+    "lastSuccessAt": "2026-10-01T21:11:39.220Z",
+    "lastRunStatus": "checked-3-posts"
   },
   "latestObservedPost": {
-    "id": "2105689875655897093",
-    "text": "@The_Alex We’re going to fix this but it’s a bit funny as your dot literally has to decide whether to pick up or not and sometimes it might just be busy with something else 👀",
-    "url": "https://x.com/thsottiaux/status/2105689875655897093",
-    "postCreatedAt": "2026-10-01T16:02:42.000Z"
+    "id": "2105727933579137159",
+    "text": "@vigyso Good thread on details of Sign in with ChatGPT and how the subscription can be used in my partner products",
+    "url": "https://x.com/thsottiaux/status/2105727933579137159",
+    "postCreatedAt": "2026-10-01T18:33:56.000Z"
   },
   "latest": {
     "reset": {
