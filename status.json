@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-30T23:10:16.784Z",
+  "updatedAt": "2026-10-01T02:11:45.958Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-09-30T23:10:16.781Z",
-    "lastSuccessAt": "2026-09-30T23:10:16.781Z",
+    "lastCheckedAt": "2026-10-01T02:11:45.953Z",
+    "lastSuccessAt": "2026-10-01T02:11:45.953Z",
     "lastRunStatus": "checked-2-posts"
   },
   "latestObservedPost": {
-    "id": "2105395200248156556",
-    "text": "Asked my dot to paint me. After sending me something cartoonish, I asked it to try a bit harder and to find a recent picture of me on the internet. It did better.\n\nBelow video is me clicking through my dot's computer. https://t.co/AutVg2erlh",
-    "url": "https://x.com/thsottiaux/status/2105395200248156556",
-    "postCreatedAt": "2026-09-30T20:31:46.000Z"
+    "id": "2105464274747527543",
+    "text": "GPT-6.1 Sol is our most demanded model pretty much ever both across both the API and subscriptions. \n\nWithin ChatGPT & Codex, we were under heavy load, but have brough more capacity online and the speed should get much better in the coming hours, reaching almost twice the speed compared to what we served yesterday.",
+    "url": "https://x.com/thsottiaux/status/2105464274747527543",
+    "postCreatedAt": "2026-10-01T01:06:15.000Z"
   },
   "latest": {
     "reset": {
