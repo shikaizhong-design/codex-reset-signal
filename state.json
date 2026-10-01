@@ -3,12 +3,40 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2105522533139452359",
-  "lastCheckedAt": "2026-10-01T09:02:03.449Z",
-  "lastSuccessAt": "2026-10-01T09:02:03.449Z",
+  "sinceId": "2105689875655897093",
+  "lastCheckedAt": "2026-10-01T16:22:00.315Z",
+  "lastSuccessAt": "2026-10-01T16:22:00.315Z",
   "lastRunStatus": "checked-4-posts",
-  "postsScanned": 238,
+  "postsScanned": 242,
   "matches": [
+    {
+      "version": "167a269c5773a9f503592fe0b0b5df1cde533a29f9c0c1145fa8cac12081882e",
+      "id": "2105672058269212820",
+      "canonicalId": "2105672058269212820",
+      "text": "Because usage on your primary dot is virtually unlimited at the moment, I can’t really give a reset. I need to come up with something new fast.",
+      "createdAt": "2026-10-01T14:51:54.000Z",
+      "url": "https://x.com/thsottiaux/status/2105672058269212820",
+      "media": [],
+      "detectedAt": "2026-10-01T16:22:00.315Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Because usage on your primary dot is virtually unlimited at the moment, I can’t really give a reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Because usage on your primary dot is virtually unlimited at the moment, I can’t really give a reset",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions"
+      ],
+      "notifiedAt": "2026-10-01T16:22:00.319Z"
+    },
     {
       "version": "6318f9d8a246e13f79341d9899d5506a36c826782b7fa20a328fe7948e26e8a0",
       "id": "2103963215885701493",
@@ -599,15 +627,19 @@
     "2105489877727064272": "d7599a59dde41f51191d377c38469de21de2728047f57247a86950724a736054",
     "2105519215092584786": "a32abb5412a4708c46647dcd6dcd5e6e1def994a31b1d08289bb1e36e98fafe1",
     "2105519686280790252": "26483251cb928009acf384c91f2d544fe7918fd760745adb03507a01c0ba0fad",
-    "2105522533139452359": "0d87331efee515368cc94083bb34d2a991ed735dcbe93cc2f1132bd815e017a2"
+    "2105522533139452359": "0d87331efee515368cc94083bb34d2a991ed735dcbe93cc2f1132bd815e017a2",
+    "2105670256094326849": "4a5852fc176f960e9c92a18c869fdb867e84341d9c817188c5253b05d040876d",
+    "2105672058269212820": "167a269c5773a9f503592fe0b0b5df1cde533a29f9c0c1145fa8cac12081882e",
+    "2105689002905153761": "6a2bfd9c2bdf977f1884766159b77e51f02688e2a62da5b0334beeda6a518694",
+    "2105689875655897093": "1c1f12e0c04665ad9faba6e706ce43d49cdf9546e55017f275c4d2df8f4165e2"
   },
   "eventParserVersion": 5,
   "latestObservedPost": {
-    "id": "2105522533139452359",
-    "canonicalId": "2105522533139452359",
-    "text": "@jxnlco I was going to say, last year. But no… it was this year.",
-    "createdAt": "2026-10-01T04:57:45.000Z",
-    "url": "https://x.com/thsottiaux/status/2105522533139452359",
+    "id": "2105689875655897093",
+    "canonicalId": "2105689875655897093",
+    "text": "@The_Alex We’re going to fix this but it’s a bit funny as your dot literally has to decide whether to pick up or not and sometimes it might just be busy with something else 👀",
+    "createdAt": "2026-10-01T16:02:42.000Z",
+    "url": "https://x.com/thsottiaux/status/2105689875655897093",
     "media": []
   }
 }

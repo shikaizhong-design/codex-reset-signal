@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-01T09:02:03.455Z",
+  "updatedAt": "2026-10-01T16:22:00.327Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-01T09:02:03.449Z",
-    "lastSuccessAt": "2026-10-01T09:02:03.449Z",
+    "lastCheckedAt": "2026-10-01T16:22:00.315Z",
+    "lastSuccessAt": "2026-10-01T16:22:00.315Z",
     "lastRunStatus": "checked-4-posts"
   },
   "latestObservedPost": {
-    "id": "2105522533139452359",
-    "text": "@jxnlco I was going to say, last year. But no… it was this year.",
-    "url": "https://x.com/thsottiaux/status/2105522533139452359",
-    "postCreatedAt": "2026-10-01T04:57:45.000Z"
+    "id": "2105689875655897093",
+    "text": "@The_Alex We’re going to fix this but it’s a bit funny as your dot literally has to decide whether to pick up or not and sometimes it might just be busy with something else 👀",
+    "url": "https://x.com/thsottiaux/status/2105689875655897093",
+    "postCreatedAt": "2026-10-01T16:02:42.000Z"
   },
   "latest": {
     "reset": {
@@ -67,6 +67,30 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "167a269c5773a9f503592fe0b0b5df1cde533a29f9c0c1145fa8cac12081882e",
+      "id": "2105672058269212820",
+      "text": "Because usage on your primary dot is virtually unlimited at the moment, I can’t really give a reset. I need to come up with something new fast.",
+      "url": "https://x.com/thsottiaux/status/2105672058269212820",
+      "postCreatedAt": "2026-10-01T14:51:54.000Z",
+      "detectedAt": "2026-10-01T16:22:00.315Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Because usage on your primary dot is virtually unlimited at the moment, I can’t really give a reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Because usage on your primary dot is virtually unlimited at the moment, I can’t really give a reset",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "live"
+    },
     {
       "version": "6318f9d8a246e13f79341d9899d5506a36c826782b7fa20a328fe7948e26e8a0",
       "id": "2103963215885701493",
