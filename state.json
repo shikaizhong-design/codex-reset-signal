@@ -3,12 +3,39 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2105727933579137159",
-  "lastCheckedAt": "2026-10-02T00:51:11.823Z",
-  "lastSuccessAt": "2026-10-02T00:51:11.823Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 245,
+  "sinceId": "2105899634032025682",
+  "lastCheckedAt": "2026-10-02T06:36:27.725Z",
+  "lastSuccessAt": "2026-10-02T06:36:27.725Z",
+  "lastRunStatus": "checked-8-posts",
+  "postsScanned": 253,
   "matches": [
+    {
+      "version": "b02c185e6d38a85aef44055aeecbb23e288971261e952c941d61762839440884",
+      "id": "2105843926221660585",
+      "canonicalId": "2105843926221660585",
+      "text": "Global reset landing tomorrow 10am PST for all paid ChatGPT accounts. Apologies for the slow start with GPT-6.1 Sol, it's now back to running at expected speeds after the massive load spike in the first two days.",
+      "createdAt": "2026-10-02T02:14:51.000Z",
+      "url": "https://x.com/thsottiaux/status/2105843926221660585",
+      "media": [],
+      "detectedAt": "2026-10-02T06:36:27.725Z",
+      "events": [
+        {
+          "type": "reset",
+          "status": "scheduled",
+          "evidence": "Global reset landing tomorrow 10am PST for all paid ChatGPT accounts",
+          "time": {
+            "kind": "exact",
+            "start": "2026-10-02T18:00:00.000Z",
+            "end": null,
+            "evidence": "tomorrow 10am PST"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions"
+      ],
+      "notifiedAt": "2026-10-02T06:36:27.730Z"
+    },
     {
       "version": "167a269c5773a9f503592fe0b0b5df1cde533a29f9c0c1145fa8cac12081882e",
       "id": "2105672058269212820",
@@ -633,15 +660,23 @@
     "2105689875655897093": "1c1f12e0c04665ad9faba6e706ce43d49cdf9546e55017f275c4d2df8f4165e2",
     "2105718728658993153": "cd3b6d38fde16001b4e161b3c6774967adea32475418a6ee1bc154557865b19f",
     "2105718931235508277": "d888041f52b8a264d80decb8c4c9571ece15c80157dbabe05180807b9228e3db",
-    "2105727933579137159": "643604c2cea109ff310502feb25066096085b2c798d4b1c132008ffa2f595c0d"
+    "2105727933579137159": "643604c2cea109ff310502feb25066096085b2c798d4b1c132008ffa2f595c0d",
+    "2105828364879876207": "74c85f0dda4c2262d5da0c6b3b008a1cd655b0b1fd689579b901a1284dfa63b6",
+    "2105843550936302055": "be4ef67e6234fa2d1e56397b05a89406e4e32dc58dbea9ce3c5df2c5b6e23808",
+    "2105843926221660585": "b02c185e6d38a85aef44055aeecbb23e288971261e952c941d61762839440884",
+    "2105844753522938214": "57a754146e42496c71069641f06419f292b6dcf6ba78516de25471889709916d",
+    "2105862010521219406": "c1af6ce59169319b6d2376f4a18d54ec00a47ce9d966697389e924515c982549",
+    "2105863294267560169": "65814c6e837a6906e7a57795247cc6b9a11d7db60737e89754ff046d8113e790",
+    "2105863620433453166": "42b5440076de7e93bb927f97fe7e53d2c2cb7e884a20f80babb0dac4f8fbd236",
+    "2105899634032025682": "69cde66200dd895a5a64b32587f2a5a4de3cc94d260dd9f0fce342f96f6118ec"
   },
   "eventParserVersion": 5,
   "latestObservedPost": {
-    "id": "2105727933579137159",
-    "canonicalId": "2105727933579137159",
-    "text": "@vigyso Good thread on details of Sign in with ChatGPT and how the subscription can be used in my partner products",
-    "createdAt": "2026-10-01T18:33:56.000Z",
-    "url": "https://x.com/thsottiaux/status/2105727933579137159",
+    "id": "2105899634032025682",
+    "canonicalId": "2105899634032025682",
+    "text": "Down to 6110 unread from the over 9000 unread emails just earlier. Will get to inbox zero with clean filters within the next 48 hours. Dot has accepted the challenge.",
+    "createdAt": "2026-10-02T05:56:13.000Z",
+    "url": "https://x.com/thsottiaux/status/2105899634032025682",
     "media": []
   }
 }
