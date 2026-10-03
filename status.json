@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-03T16:36:52.204Z",
+  "updatedAt": "2026-10-03T19:25:35.581Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-03T16:36:52.197Z",
-    "lastSuccessAt": "2026-10-03T16:36:52.197Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-03T19:25:35.577Z",
+    "lastSuccessAt": "2026-10-03T19:25:35.577Z",
+    "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2106257453679808676",
-    "text": "@poteto Hey now. You don’t know what we’re releasing next week",
-    "url": "https://x.com/thsottiaux/status/2106257453679808676",
-    "postCreatedAt": "2026-10-03T05:38:03.000Z"
+    "id": "2106439068557144179",
+    "text": "What’s one thing that’s missing in codex that you wish we had?",
+    "url": "https://x.com/thsottiaux/status/2106439068557144179",
+    "postCreatedAt": "2026-10-03T17:39:44.000Z"
   },
   "latest": {
     "reset": {
