@@ -3,12 +3,40 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2106131810921136451",
-  "lastCheckedAt": "2026-10-03T01:23:58.914Z",
-  "lastSuccessAt": "2026-10-03T01:23:58.914Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 255,
+  "sinceId": "2106257453679808676",
+  "lastCheckedAt": "2026-10-03T06:55:46.036Z",
+  "lastSuccessAt": "2026-10-03T06:55:46.036Z",
+  "lastRunStatus": "checked-11-posts",
+  "postsScanned": 266,
   "matches": [
+    {
+      "version": "8d648cfa3f70b05d1282442dffd0dadac8cd4f88b8eb31561308956090ce3da1",
+      "id": "2106233145163141249",
+      "canonicalId": "2106233145163141249",
+      "text": "Seeing some reports that the Pro 500 didn’t get the reset as expected earlier. Investigating and will make up for it",
+      "createdAt": "2026-10-03T04:01:28.000Z",
+      "url": "https://x.com/thsottiaux/status/2106233145163141249",
+      "media": [],
+      "detectedAt": "2026-10-03T06:55:46.035Z",
+      "events": [
+        {
+          "type": "reset",
+          "status": "announced",
+          "evidence": "Seeing some reports that the Pro 500 didn’t get the reset as expected earlier",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Seeing some reports that the Pro 500 didn’t get the reset as expected earlier",
+            "note": "原文没有可确定的时间"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions"
+      ],
+      "notifiedAt": "2026-10-03T06:55:46.041Z"
+    },
     {
       "version": "5b85ac7fbd8b721dd409dd96202e65a3b4d0b33e20fe297a4360df356c97b617",
       "id": "2106131810921136451",
@@ -696,15 +724,26 @@
     "2105863620433453166": "42b5440076de7e93bb927f97fe7e53d2c2cb7e884a20f80babb0dac4f8fbd236",
     "2105899634032025682": "69cde66200dd895a5a64b32587f2a5a4de3cc94d260dd9f0fce342f96f6118ec",
     "2106046594277954010": "b166dfe94f606abcc95397f7fab6541c899f0dfc919fc05644844c0df9da934a",
-    "2106131810921136451": "5b85ac7fbd8b721dd409dd96202e65a3b4d0b33e20fe297a4360df356c97b617"
+    "2106131810921136451": "5b85ac7fbd8b721dd409dd96202e65a3b4d0b33e20fe297a4360df356c97b617",
+    "2106224612271112207": "63a663b1cc9c924ccbf2422fe8a6eb9446235c98adb50dc91f48fd1552397ffb",
+    "2106226725428572371": "3616f603c6c01df7af64ea86400eca426e116c6f578a5b29352d1aa47d86a57e",
+    "2106227571088392653": "6db593cbe3b994d3f972719f8acb6063e7e1cf364e19d1b7e1f5288d4d0e9add",
+    "2106233145163141249": "8d648cfa3f70b05d1282442dffd0dadac8cd4f88b8eb31561308956090ce3da1",
+    "2106239435461579088": "4d49eb152447068584fd550e2ab2b2afd9c8a1c662cbc62e0eef661288ff010f",
+    "2106239912932692085": "ea534537611ab5f47a6874e8f64f95b8f0886097d1a8a68c066b4ecbc4261bdd",
+    "2106250124863389920": "e6ec211d2463e5ef0632b3275eaf6fed2a8cf1c36c6dba08ce2eab5438e44e12",
+    "2106252868307271752": "5a320ed6c1c759986388d87bacc92ec68edc80225b5766ab672e3749814f5141",
+    "2106253534132089110": "6492fe57923153ae7785eb81b4174cd2978e428924316c41ef53db099654376a",
+    "2106255580772061332": "0b3a1c5978ab909db8a52bd2dcaa728a76e2af14ca79a05478a2576ae472d3f3",
+    "2106257453679808676": "9c994ca901764a407f4289da37208db829cae9d3d516238421deeae46fc383bb"
   },
   "eventParserVersion": 5,
   "latestObservedPost": {
-    "id": "2106131810921136451",
-    "canonicalId": "2106131810921136451",
-    "text": "Reset all propagated. Enjoy.",
-    "createdAt": "2026-10-02T21:18:48.000Z",
-    "url": "https://x.com/thsottiaux/status/2106131810921136451",
+    "id": "2106257453679808676",
+    "canonicalId": "2106257453679808676",
+    "text": "@poteto Hey now. You don’t know what we’re releasing next week",
+    "createdAt": "2026-10-03T05:38:03.000Z",
+    "url": "https://x.com/thsottiaux/status/2106257453679808676",
     "media": []
   }
 }

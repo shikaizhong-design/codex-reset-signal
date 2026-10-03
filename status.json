@@ -1,39 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-03T01:23:58.919Z",
+  "updatedAt": "2026-10-03T06:55:46.047Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-03T01:23:58.914Z",
-    "lastSuccessAt": "2026-10-03T01:23:58.914Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-03T06:55:46.036Z",
+    "lastSuccessAt": "2026-10-03T06:55:46.036Z",
+    "lastRunStatus": "checked-11-posts"
   },
   "latestObservedPost": {
-    "id": "2106131810921136451",
-    "text": "Reset all propagated. Enjoy.",
-    "url": "https://x.com/thsottiaux/status/2106131810921136451",
-    "postCreatedAt": "2026-10-02T21:18:48.000Z"
+    "id": "2106257453679808676",
+    "text": "@poteto Hey now. You don’t know what we’re releasing next week",
+    "url": "https://x.com/thsottiaux/status/2106257453679808676",
+    "postCreatedAt": "2026-10-03T05:38:03.000Z"
   },
   "latest": {
     "reset": {
-      "version": "5b85ac7fbd8b721dd409dd96202e65a3b4d0b33e20fe297a4360df356c97b617",
-      "id": "2106131810921136451",
-      "text": "Reset all propagated. Enjoy.",
-      "url": "https://x.com/thsottiaux/status/2106131810921136451",
-      "postCreatedAt": "2026-10-02T21:18:48.000Z",
-      "detectedAt": "2026-10-02T22:30:44.181Z",
+      "version": "8d648cfa3f70b05d1282442dffd0dadac8cd4f88b8eb31561308956090ce3da1",
+      "id": "2106233145163141249",
+      "text": "Seeing some reports that the Pro 500 didn’t get the reset as expected earlier. Investigating and will make up for it",
+      "url": "https://x.com/thsottiaux/status/2106233145163141249",
+      "postCreatedAt": "2026-10-03T04:01:28.000Z",
+      "detectedAt": "2026-10-03T06:55:46.035Z",
       "events": [
         {
           "type": "reset",
-          "status": "completed",
-          "evidence": "Reset all propagated",
+          "status": "announced",
+          "evidence": "Seeing some reports that the Pro 500 didn’t get the reset as expected earlier",
           "time": {
-            "kind": "observed",
-            "start": "2026-10-02T21:18:48.000Z",
+            "kind": "unknown",
+            "start": null,
             "end": null,
-            "evidence": "Reset all propagated",
-            "note": "使用公告发布时间；不代表账户实际到账时刻"
+            "evidence": "Seeing some reports that the Pro 500 didn’t get the reset as expected earlier",
+            "note": "原文没有可确定的时间"
           }
         }
       ],
@@ -67,6 +67,30 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "8d648cfa3f70b05d1282442dffd0dadac8cd4f88b8eb31561308956090ce3da1",
+      "id": "2106233145163141249",
+      "text": "Seeing some reports that the Pro 500 didn’t get the reset as expected earlier. Investigating and will make up for it",
+      "url": "https://x.com/thsottiaux/status/2106233145163141249",
+      "postCreatedAt": "2026-10-03T04:01:28.000Z",
+      "detectedAt": "2026-10-03T06:55:46.035Z",
+      "events": [
+        {
+          "type": "reset",
+          "status": "announced",
+          "evidence": "Seeing some reports that the Pro 500 didn’t get the reset as expected earlier",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Seeing some reports that the Pro 500 didn’t get the reset as expected earlier",
+            "note": "原文没有可确定的时间"
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "live"
+    },
     {
       "version": "5b85ac7fbd8b721dd409dd96202e65a3b4d0b33e20fe297a4360df356c97b617",
       "id": "2106131810921136451",
