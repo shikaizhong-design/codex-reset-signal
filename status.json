@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-04T01:48:43.366Z",
+  "updatedAt": "2026-10-04T07:32:13.450Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-04T01:48:43.361Z",
-    "lastSuccessAt": "2026-10-04T01:48:43.361Z",
-    "lastRunStatus": "checked-4-posts"
+    "lastCheckedAt": "2026-10-04T07:32:13.443Z",
+    "lastSuccessAt": "2026-10-04T07:32:13.443Z",
+    "lastRunStatus": "checked-7-posts"
   },
   "latestObservedPost": {
-    "id": "2106546689012281771",
-    "text": "@Baconbrix Interesting position you’re taking there mister Bacon. Now let’s see what someone can do with the ChatGPT subscription or the Grok subscription. 👀",
-    "url": "https://x.com/thsottiaux/status/2106546689012281771",
-    "postCreatedAt": "2026-10-04T00:47:23.000Z"
+    "id": "2106610099720720811",
+    "text": "All right, we’re locking in. Only things being worked on are simplifications, more efficiency for more usage, groundbreaking features or new models. \n\nSometimes you have to invest ahead of the curve, but feedback is clear that you all want things to get simpler. On it.",
+    "url": "https://x.com/thsottiaux/status/2106610099720720811",
+    "postCreatedAt": "2026-10-04T04:59:21.000Z"
   },
   "latest": {
     "reset": {

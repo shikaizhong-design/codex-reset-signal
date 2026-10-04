@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2106546689012281771",
-  "lastCheckedAt": "2026-10-04T01:48:43.361Z",
-  "lastSuccessAt": "2026-10-04T01:48:43.361Z",
-  "lastRunStatus": "checked-4-posts",
-  "postsScanned": 274,
+  "sinceId": "2106610099720720811",
+  "lastCheckedAt": "2026-10-04T07:32:13.443Z",
+  "lastSuccessAt": "2026-10-04T07:32:13.443Z",
+  "lastRunStatus": "checked-7-posts",
+  "postsScanned": 281,
   "matches": [
     {
       "version": "8d648cfa3f70b05d1282442dffd0dadac8cd4f88b8eb31561308956090ce3da1",
@@ -742,15 +742,22 @@
     "2106541589007114420": "0ce3daaad910d2923cc677b30c3d6d775ee1a38442a1b1bdff8cc714e5905c85",
     "2106543375088488596": "6b5bdac9f70f05f4eb1c0426514c31ed739533831ad98c1e37b9a4d2bfbc4d6a",
     "2106544544892518815": "3c5ae118b80061c046bd87bcc50c657de037686265badf56c35d7112f87b8f7c",
-    "2106546689012281771": "df2957ccb835cb2a7fe35172bedfe309a04b4b46559482fc9ac9c20cd7efa1b8"
+    "2106546689012281771": "df2957ccb835cb2a7fe35172bedfe309a04b4b46559482fc9ac9c20cd7efa1b8",
+    "2106593009806815429": "d5267a3556703f74f5457a102e76b737b8da600df8de6cde226082746603ad9a",
+    "2106602729875685780": "4163eefa442201df7b058fdfd15e8192e60b5b4571b7e88487f54df8694f80f6",
+    "2106603980386394123": "27a0e2052f7ca79856d0a86c82c84c124239acfc1b31c63e40e520c1dc3ed667",
+    "2106605571168510149": "d8de347ffdc23e0e3b8777ac311e8ac582a2cd27543d5943786cf889afa460bc",
+    "2106607456130592861": "dcb0b5bb0e38eb51dfcfc78253c1594bd8524c6b62fe9398c546e72623ce9972",
+    "2106609390577156384": "910bff1e812c9cfc1fc234e98069cc62a9be2e025a6b588f0c5ca3bcf13d40c5",
+    "2106610099720720811": "896a6d1f19cbebdda316ad3fc92961afd928c39f87e48698cb60edbb4c8f79e9"
   },
   "eventParserVersion": 5,
   "latestObservedPost": {
-    "id": "2106546689012281771",
-    "canonicalId": "2106546689012281771",
-    "text": "@Baconbrix Interesting position you’re taking there mister Bacon. Now let’s see what someone can do with the ChatGPT subscription or the Grok subscription. 👀",
-    "createdAt": "2026-10-04T00:47:23.000Z",
-    "url": "https://x.com/thsottiaux/status/2106546689012281771",
+    "id": "2106610099720720811",
+    "canonicalId": "2106610099720720811",
+    "text": "All right, we’re locking in. Only things being worked on are simplifications, more efficiency for more usage, groundbreaking features or new models. \n\nSometimes you have to invest ahead of the curve, but feedback is clear that you all want things to get simpler. On it.",
+    "createdAt": "2026-10-04T04:59:21.000Z",
+    "url": "https://x.com/thsottiaux/status/2106610099720720811",
     "media": []
   }
 }
