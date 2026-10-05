@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-04T23:34:22.794Z",
+  "updatedAt": "2026-10-05T02:23:32.056Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-04T23:34:22.782Z",
-    "lastSuccessAt": "2026-10-04T23:34:22.782Z",
-    "lastRunStatus": "checked-3-posts"
+    "lastCheckedAt": "2026-10-05T02:23:32.052Z",
+    "lastSuccessAt": "2026-10-05T02:23:32.052Z",
+    "lastRunStatus": "checked-4-posts"
   },
   "latestObservedPost": {
-    "id": "2106858787151995288",
-    "text": "@buildwithsid You're hired",
-    "url": "https://x.com/thsottiaux/status/2106858787151995288",
-    "postCreatedAt": "2026-10-04T21:27:33.000Z"
+    "id": "2106894683523928229",
+    "text": "@Yuchenj_UW We're still early indeed!",
+    "url": "https://x.com/thsottiaux/status/2106894683523928229",
+    "postCreatedAt": "2026-10-04T23:50:11.000Z"
   },
   "latest": {
     "reset": {
