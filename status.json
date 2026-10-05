@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-05T02:23:32.056Z",
+  "updatedAt": "2026-10-05T09:30:05.594Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-05T02:23:32.052Z",
-    "lastSuccessAt": "2026-10-05T02:23:32.052Z",
-    "lastRunStatus": "checked-4-posts"
+    "lastCheckedAt": "2026-10-05T09:30:05.590Z",
+    "lastSuccessAt": "2026-10-05T09:30:05.590Z",
+    "lastRunStatus": "checked-6-posts"
   },
   "latestObservedPost": {
-    "id": "2106894683523928229",
-    "text": "@Yuchenj_UW We're still early indeed!",
-    "url": "https://x.com/thsottiaux/status/2106894683523928229",
-    "postCreatedAt": "2026-10-04T23:50:11.000Z"
+    "id": "2106967126250791091",
+    "text": "@hiarun02 Facts",
+    "url": "https://x.com/thsottiaux/status/2106967126250791091",
+    "postCreatedAt": "2026-10-05T04:38:03.000Z"
   },
   "latest": {
     "reset": {
