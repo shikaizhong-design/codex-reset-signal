@@ -3,12 +3,68 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2107517084884521030",
-  "lastCheckedAt": "2026-10-06T19:07:25.088Z",
-  "lastSuccessAt": "2026-10-06T19:07:25.088Z",
-  "lastRunStatus": "checked-2-posts",
-  "postsScanned": 319,
+  "sinceId": "2107603154699173997",
+  "lastCheckedAt": "2026-10-06T23:03:35.839Z",
+  "lastSuccessAt": "2026-10-06T23:03:35.839Z",
+  "lastRunStatus": "checked-19-posts",
+  "postsScanned": 338,
   "matches": [
+    {
+      "version": "85892387eb9ff7a95c526efcebe49b7e7ad48687dd700357c70170e063af22d3",
+      "id": "2107578625419866469",
+      "canonicalId": "2107578625419866469",
+      "text": "Four updates or a reset. Or both. How was day 2.",
+      "createdAt": "2026-10-06T21:07:55.000Z",
+      "url": "https://x.com/thsottiaux/status/2107578625419866469",
+      "media": [],
+      "detectedAt": "2026-10-06T23:03:35.839Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Four updates or a reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Four updates or a reset",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions"
+      ],
+      "notifiedAt": "2026-10-06T23:03:35.848Z"
+    },
+    {
+      "version": "57d0a1b4fe4b21e48d44e65af02de747a6399d988694606b367b04bca8c38397",
+      "id": "2107577536779870210",
+      "canonicalId": "2107577536779870210",
+      "text": "@The_Alex I do like giving resets",
+      "createdAt": "2026-10-06T21:03:36.000Z",
+      "url": "https://x.com/thsottiaux/status/2107577536779870210",
+      "media": [],
+      "detectedAt": "2026-10-06T23:03:35.838Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "@The_Alex I do like giving resets",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "@The_Alex I do like giving resets",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions"
+      ],
+      "notifiedAt": "2026-10-06T23:03:35.843Z"
+    },
     {
       "version": "634cee8d4bc3c33cda61db1b50c369936dd953aad5b9f2f8e910166b36a2efeb",
       "id": "2106845241357824205",
@@ -814,15 +870,34 @@
     "2107370852564021582": "2355282d94e31a15eda72302448df9c3ea626b66913f1224331515f6c9e1b7ef",
     "2107378093635899886": "ab7b2a7b747e4cce2fa1433b445a51aaf3aa93e8e795c520495091eca75e34f9",
     "2107504197012988007": "3c5e11ca775eecfc492d1b81a6ee5df2bae9319287ee1133b136f721ec037856",
-    "2107517084884521030": "25e4ecb7aa412cd7bcd79529f062e4c64e812b2e15443fa0f9baa4f4e0c5e700"
+    "2107517084884521030": "25e4ecb7aa412cd7bcd79529f062e4c64e812b2e15443fa0f9baa4f4e0c5e700",
+    "2107548725359104441": "025e3bc9d9d5345adef9b99d8147a9ff6a4e1c43638c2374453f80ea07dbbd28",
+    "2107558288934216153": "ac56e63acb6c1e540ca772efc407435eada1f32eb715b0bdef56ae03670958a3",
+    "2107573405553938664": "7a033d513dabda66ae854de4cc1400ffc0d285b74d10808088b30a0ccbb41de4",
+    "2107574912349303197": "64e00f290e868dad0ad08db7ae57d081ff9b8e1f96b0efe242642cb46be40383",
+    "2107575657014468879": "2d660456dca4d926cdd0ef0d07b9d87373f5b793374d0df11276a98273c83d9d",
+    "2107577536779870210": "57d0a1b4fe4b21e48d44e65af02de747a6399d988694606b367b04bca8c38397",
+    "2107578625419866469": "85892387eb9ff7a95c526efcebe49b7e7ad48687dd700357c70170e063af22d3",
+    "2107578816638177408": "d61aacc31acb93dff67f579fb44ad00233e53cd6f2010a347561dad4d1c05a26",
+    "2107579151322591412": "56ac28f37f539989f126ac69f0a6e2dfdfc464bc77bb5fc665277daf4fac65f9",
+    "2107586339860631980": "99da11d2fa88ff11185e263814680c22f6e9af722f15d7c99a9f581cf791b3ea",
+    "2107586622766366739": "dd70bf9b6401b198f63d2cb8041353b5fe04ab1bced95028510e217facf0c232",
+    "2107587158001496242": "fa0ee587ce97bfddf93f5199b3419abb29adda965a908698a215e82f7ba07f5f",
+    "2107587334661378382": "fd0c79e63da2c0ec5a5713a30acc8560d240d22772dbd68a7aadd5111a6e2758",
+    "2107587734810525809": "6c5cb274fa3057fe4d17cc7082b55d984603809acb9ec453b4b841dabe782851",
+    "2107592271952748814": "062c7944f8e063035ff94630816647241c545dc7c13b7ca6129409b644519805",
+    "2107592473048715573": "3cf177e9f8fc9213f215b133bdaed7a709e0e92612f1816998d83f4c9d3b968a",
+    "2107597780352950624": "a012fe81e40786b212f190ce737b6bfb0c5f5ae22e9c5d4c92a1ccca2e726b4c",
+    "2107599996225007892": "d7420c9a5abb979a66736e166bb327f867ff67e76cce27d11bc5f5038abc6506",
+    "2107603154699173997": "26a9eff8157d9bd4882a18b86260e867abadf00bb9cdaf7a1aab3638c8627d1d"
   },
   "eventParserVersion": 5,
   "latestObservedPost": {
-    "id": "2107517084884521030",
-    "canonicalId": "2107517084884521030",
-    "text": "@nicdunz wowza",
-    "createdAt": "2026-10-06T17:03:23.000Z",
-    "url": "https://x.com/thsottiaux/status/2107517084884521030",
+    "id": "2107603154699173997",
+    "canonicalId": "2107603154699173997",
+    "text": "@ShaneMac @poteto mind looking into this one? Could use some PRs",
+    "createdAt": "2026-10-06T22:45:24.000Z",
+    "url": "https://x.com/thsottiaux/status/2107603154699173997",
     "media": []
   }
 }
