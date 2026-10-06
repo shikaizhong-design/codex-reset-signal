@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-06T00:25:51.128Z",
+  "updatedAt": "2026-10-06T06:47:58.475Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-06T00:25:51.123Z",
-    "lastSuccessAt": "2026-10-06T00:25:51.123Z",
-    "lastRunStatus": "checked-2-posts"
+    "lastCheckedAt": "2026-10-06T06:47:58.469Z",
+    "lastSuccessAt": "2026-10-06T06:47:58.469Z",
+    "lastRunStatus": "checked-13-posts"
   },
   "latestObservedPost": {
-    "id": "2107200530477101461",
-    "text": "Sergio is cooking up magic with collaborative space right in ChatGPT. Improving leaps and bounds every day.",
-    "url": "https://x.com/thsottiaux/status/2107200530477101461",
-    "postCreatedAt": "2026-10-05T20:05:31.000Z"
+    "id": "2107320918200693212",
+    "text": "@badlogicgames Blackboard",
+    "url": "https://x.com/thsottiaux/status/2107320918200693212",
+    "postCreatedAt": "2026-10-06T04:03:53.000Z"
   },
   "latest": {
     "reset": {
