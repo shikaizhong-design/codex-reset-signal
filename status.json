@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-06T13:41:13.343Z",
+  "updatedAt": "2026-10-06T19:07:25.092Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-06T13:41:13.337Z",
-    "lastSuccessAt": "2026-10-06T13:41:13.337Z",
-    "lastRunStatus": "checked-4-posts"
+    "lastCheckedAt": "2026-10-06T19:07:25.088Z",
+    "lastSuccessAt": "2026-10-06T19:07:25.088Z",
+    "lastRunStatus": "checked-2-posts"
   },
   "latestObservedPost": {
-    "id": "2107378093635899886",
-    "text": "Settings → General → Permissions → Auto-review https://t.co/KC2nwWOCi9",
-    "url": "https://x.com/thsottiaux/status/2107378093635899886",
-    "postCreatedAt": "2026-10-06T07:51:05.000Z"
+    "id": "2107517084884521030",
+    "text": "@nicdunz wowza",
+    "url": "https://x.com/thsottiaux/status/2107517084884521030",
+    "postCreatedAt": "2026-10-06T17:03:23.000Z"
   },
   "latest": {
     "reset": {

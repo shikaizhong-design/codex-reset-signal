@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2107378093635899886",
-  "lastCheckedAt": "2026-10-06T13:41:13.337Z",
-  "lastSuccessAt": "2026-10-06T13:41:13.337Z",
-  "lastRunStatus": "checked-4-posts",
-  "postsScanned": 317,
+  "sinceId": "2107517084884521030",
+  "lastCheckedAt": "2026-10-06T19:07:25.088Z",
+  "lastSuccessAt": "2026-10-06T19:07:25.088Z",
+  "lastRunStatus": "checked-2-posts",
+  "postsScanned": 319,
   "matches": [
     {
       "version": "634cee8d4bc3c33cda61db1b50c369936dd953aad5b9f2f8e910166b36a2efeb",
@@ -812,23 +812,17 @@
     "2107368734981517634": "94753233df1ac0faf02dc8283e218679ba74f4792b4a49660c328e577948f985",
     "2107368786353398184": "671256981be4a7f06bb287e123c49029a573751f2535a4605c0e30897162fe34",
     "2107370852564021582": "2355282d94e31a15eda72302448df9c3ea626b66913f1224331515f6c9e1b7ef",
-    "2107378093635899886": "ab7b2a7b747e4cce2fa1433b445a51aaf3aa93e8e795c520495091eca75e34f9"
+    "2107378093635899886": "ab7b2a7b747e4cce2fa1433b445a51aaf3aa93e8e795c520495091eca75e34f9",
+    "2107504197012988007": "3c5e11ca775eecfc492d1b81a6ee5df2bae9319287ee1133b136f721ec037856",
+    "2107517084884521030": "25e4ecb7aa412cd7bcd79529f062e4c64e812b2e15443fa0f9baa4f4e0c5e700"
   },
   "eventParserVersion": 5,
   "latestObservedPost": {
-    "id": "2107378093635899886",
-    "canonicalId": "2107378093635899886",
-    "text": "Settings → General → Permissions → Auto-review https://t.co/KC2nwWOCi9",
-    "createdAt": "2026-10-06T07:51:05.000Z",
-    "url": "https://x.com/thsottiaux/status/2107378093635899886",
-    "media": [
-      {
-        "mediaKey": "2107378080339681280",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/HT7pMt4XYAATUfe.png?name=orig",
-        "previewImageUrl": null,
-        "altText": null
-      }
-    ]
+    "id": "2107517084884521030",
+    "canonicalId": "2107517084884521030",
+    "text": "@nicdunz wowza",
+    "createdAt": "2026-10-06T17:03:23.000Z",
+    "url": "https://x.com/thsottiaux/status/2107517084884521030",
+    "media": []
   }
 }
