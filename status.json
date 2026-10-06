@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-05T18:48:28.196Z",
+  "updatedAt": "2026-10-06T00:25:51.128Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-05T18:48:28.192Z",
-    "lastSuccessAt": "2026-10-05T18:48:28.192Z",
+    "lastCheckedAt": "2026-10-06T00:25:51.123Z",
+    "lastSuccessAt": "2026-10-06T00:25:51.123Z",
     "lastRunStatus": "checked-2-posts"
   },
   "latestObservedPost": {
-    "id": "2107159119107146237",
-    "text": "Reaching 50 TPS instead of 30TPS, with also the most optimized tokenizer out there. And the models are quite the efficient ones in terms of number of tokens needed to get things done!",
-    "url": "https://x.com/thsottiaux/status/2107159119107146237",
-    "postCreatedAt": "2026-10-05T17:20:57.000Z"
+    "id": "2107200530477101461",
+    "text": "Sergio is cooking up magic with collaborative space right in ChatGPT. Improving leaps and bounds every day.",
+    "url": "https://x.com/thsottiaux/status/2107200530477101461",
+    "postCreatedAt": "2026-10-05T20:05:31.000Z"
   },
   "latest": {
     "reset": {
