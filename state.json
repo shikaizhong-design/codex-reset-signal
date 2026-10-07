@@ -4,15 +4,14 @@
   "keyword": "reset",
   "userId": "1953337039510003712",
   "sinceId": "2107700139066593612",
-  "lastCheckedAt": "2026-10-07T08:59:35.820Z",
-  "lastSuccessAt": "2026-10-07T08:59:35.820Z",
-  "lastRunStatus": "checked-7-posts",
+  "lastCheckedAt": "2026-10-07T16:21:35.815Z",
+  "lastSuccessAt": "2026-10-07T16:21:35.815Z",
+  "lastRunStatus": "checked-0-posts",
   "postsScanned": 349,
   "matches": [
     {
       "version": "2f73d5d9fccb3a4eddab62adf9e52a79c2f89312d74d5f3da3190a909a0bb8cc",
       "id": "2107676072871600470",
-      "canonicalId": "2107676072871600470",
       "text": "We shipped four things that were deemed good to great and some math proofs, but the vote is clear and the community demands a reset. I did calibrate it and it *seems* that the game is rigged in reset's favor, but such are the rules at the moment.\n\nTherefore ... the reset has been processed. Enjoy!",
       "createdAt": "2026-10-07T03:35:09.000Z",
       "url": "https://x.com/thsottiaux/status/2107676072871600470",
@@ -56,10 +55,10 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-07T08:59:35.824Z",
       "channels": [
         "github-actions"
-      ],
-      "notifiedAt": "2026-10-07T08:59:35.824Z"
+      ]
     },
     {
       "version": "85892387eb9ff7a95c526efcebe49b7e7ad48687dd700357c70170e063af22d3",
