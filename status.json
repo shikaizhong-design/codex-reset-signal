@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-06T23:03:35.856Z",
+  "updatedAt": "2026-10-07T02:19:47.843Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-06T23:03:35.839Z",
-    "lastSuccessAt": "2026-10-06T23:03:35.839Z",
-    "lastRunStatus": "checked-19-posts"
+    "lastCheckedAt": "2026-10-07T02:19:47.839Z",
+    "lastSuccessAt": "2026-10-07T02:19:47.839Z",
+    "lastRunStatus": "checked-4-posts"
   },
   "latestObservedPost": {
-    "id": "2107603154699173997",
-    "text": "@ShaneMac @poteto mind looking into this one? Could use some PRs",
-    "url": "https://x.com/thsottiaux/status/2107603154699173997",
-    "postCreatedAt": "2026-10-06T22:45:24.000Z"
+    "id": "2107647946032664948",
+    "text": "@ForwardEditor Or it will end very well?",
+    "url": "https://x.com/thsottiaux/status/2107647946032664948",
+    "postCreatedAt": "2026-10-07T01:43:23.000Z"
   },
   "latest": {
     "reset": {
