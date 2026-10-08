@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-08T01:14:18.854Z",
+  "updatedAt": "2026-10-08T07:31:17.999Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-08T01:14:18.850Z",
-    "lastSuccessAt": "2026-10-08T01:14:18.850Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-08T07:31:17.994Z",
+    "lastSuccessAt": "2026-10-08T07:31:17.994Z",
+    "lastRunStatus": "checked-11-posts"
   },
   "latestObservedPost": {
-    "id": "2107913738791596286",
-    "text": "Will be there by EOD PST.",
-    "url": "https://x.com/thsottiaux/status/2107913738791596286",
-    "postCreatedAt": "2026-10-07T19:19:33.000Z"
+    "id": "2108086116683526498",
+    "text": "@Angaisb_ Ah.. spoiled my Day 17",
+    "url": "https://x.com/thsottiaux/status/2108086116683526498",
+    "postCreatedAt": "2026-10-08T06:44:31.000Z"
   },
   "latest": {
     "reset": {
