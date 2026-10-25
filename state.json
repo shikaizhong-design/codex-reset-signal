@@ -4,15 +4,14 @@
   "keyword": "reset",
   "userId": "1953337039510003712",
   "sinceId": "2114237441250828563",
-  "lastCheckedAt": "2026-10-25T09:56:51.866Z",
-  "lastSuccessAt": "2026-10-25T09:56:51.866Z",
-  "lastRunStatus": "checked-4-posts",
+  "lastCheckedAt": "2026-10-25T14:15:39.881Z",
+  "lastSuccessAt": "2026-10-25T14:15:39.881Z",
+  "lastRunStatus": "checked-0-posts",
   "postsScanned": 509,
   "matches": [
     {
       "version": "b9d449b7729cd88e67ea3d4e502de24abc9b87cbe3e939a8b0ef8c3126c5ce58",
       "id": "2114228044072403055",
-      "canonicalId": "2114228044072403055",
       "text": "@theo Not a real improvement, put the reset in the bag",
       "createdAt": "2026-10-25T05:30:20.000Z",
       "url": "https://x.com/thsottiaux/status/2114228044072403055",
@@ -32,10 +31,10 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-25T09:56:51.871Z",
       "channels": [
         "github-actions"
-      ],
-      "notifiedAt": "2026-10-25T09:56:51.871Z"
+      ]
     },
     {
       "version": "72f6ac530cb6d09cb0c957d3535c8768295542be3bfd44f88d1ecb0c18a872b4",
