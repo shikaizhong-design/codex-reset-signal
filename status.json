@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26T05:25:43.069Z",
+  "updatedAt": "2026-10-26T11:27:56.095Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-26T05:25:43.056Z",
-    "lastSuccessAt": "2026-10-26T05:25:43.056Z",
-    "lastRunStatus": "checked-2-posts"
+    "lastCheckedAt": "2026-10-26T11:27:56.078Z",
+    "lastSuccessAt": "2026-10-26T11:27:56.078Z",
+    "lastRunStatus": "checked-4-posts"
   },
   "latestObservedPost": {
-    "id": "2114588845874491691",
-    "text": "@Aoakudotcom Me too, me too",
-    "url": "https://x.com/thsottiaux/status/2114588845874491691",
-    "postCreatedAt": "2026-10-26T05:24:02.000Z"
+    "id": "2114599388454481930",
+    "text": "@larsencc @bot Not enough resets",
+    "url": "https://x.com/thsottiaux/status/2114599388454481930",
+    "postCreatedAt": "2026-10-26T06:05:56.000Z"
   },
   "latest": {
     "reset": {
@@ -67,6 +67,30 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "0ed9171ef1a5ce3545afbab8a929e6404915691424944a6d484536d78e66c1e3",
+      "id": "2114599388454481930",
+      "text": "@larsencc @bot Not enough resets",
+      "url": "https://x.com/thsottiaux/status/2114599388454481930",
+      "postCreatedAt": "2026-10-26T06:05:56.000Z",
+      "detectedAt": "2026-10-26T11:27:56.077Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "@larsencc @bot Not enough resets",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "@larsencc @bot Not enough resets",
+            "note": "讨论、请求、弱判断或否定，不代表已确认的重置"
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "live"
+    },
     {
       "version": "684703fff5bf0ff96aef635fdc05aac74b5ffbb3d960bb7653f5e4b04cc9f41b",
       "id": "2114588174249071102",
@@ -552,30 +576,6 @@
             "start": null,
             "end": null,
             "evidence": "the reset has been processed",
-            "note": "未形成明确的重置承诺或完成确认"
-          }
-        }
-      ],
-      "deliveryChannels": [],
-      "origin": "live"
-    },
-    {
-      "version": "85892387eb9ff7a95c526efcebe49b7e7ad48687dd700357c70170e063af22d3",
-      "id": "2107578625419866469",
-      "text": "Four updates or a reset. Or both. How was day 2.",
-      "url": "https://x.com/thsottiaux/status/2107578625419866469",
-      "postCreatedAt": "2026-10-06T21:07:55.000Z",
-      "detectedAt": "2026-10-06T23:03:35.839Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "Four updates or a reset",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Four updates or a reset",
             "note": "未形成明确的重置承诺或完成确认"
           }
         }
