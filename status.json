@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26T00:41:46.878Z",
+  "updatedAt": "2026-10-26T05:25:43.069Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-26T00:41:46.872Z",
-    "lastSuccessAt": "2026-10-26T00:41:46.872Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-26T05:25:43.056Z",
+    "lastSuccessAt": "2026-10-26T05:25:43.056Z",
+    "lastRunStatus": "checked-2-posts"
   },
   "latestObservedPost": {
-    "id": "2114435873857028129",
-    "text": "@himanshutwtxs Did you?",
-    "url": "https://x.com/thsottiaux/status/2114435873857028129",
-    "postCreatedAt": "2026-10-25T19:16:11.000Z"
+    "id": "2114588845874491691",
+    "text": "@Aoakudotcom Me too, me too",
+    "url": "https://x.com/thsottiaux/status/2114588845874491691",
+    "postCreatedAt": "2026-10-26T05:24:02.000Z"
   },
   "latest": {
     "reset": {
@@ -67,6 +67,30 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "684703fff5bf0ff96aef635fdc05aac74b5ffbb3d960bb7653f5e4b04cc9f41b",
+      "id": "2114588174249071102",
+      "text": "Day 21/ Wonder what happens the remaining seven days. But today is a reset.",
+      "url": "https://x.com/thsottiaux/status/2114588174249071102",
+      "postCreatedAt": "2026-10-26T05:21:22.000Z",
+      "detectedAt": "2026-10-26T05:25:43.056Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "But today is a reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "But today is a reset",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "live"
+    },
     {
       "version": "b9d449b7729cd88e67ea3d4e502de24abc9b87cbe3e939a8b0ef8c3126c5ce58",
       "id": "2114228044072403055",
@@ -552,30 +576,6 @@
             "start": null,
             "end": null,
             "evidence": "Four updates or a reset",
-            "note": "未形成明确的重置承诺或完成确认"
-          }
-        }
-      ],
-      "deliveryChannels": [],
-      "origin": "live"
-    },
-    {
-      "version": "57d0a1b4fe4b21e48d44e65af02de747a6399d988694606b367b04bca8c38397",
-      "id": "2107577536779870210",
-      "text": "@The_Alex I do like giving resets",
-      "url": "https://x.com/thsottiaux/status/2107577536779870210",
-      "postCreatedAt": "2026-10-06T21:03:36.000Z",
-      "detectedAt": "2026-10-06T23:03:35.838Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "@The_Alex I do like giving resets",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "@The_Alex I do like giving resets",
             "note": "未形成明确的重置承诺或完成确认"
           }
         }
