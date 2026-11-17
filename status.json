@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-17T17:41:46.097Z",
+  "updatedAt": "2026-11-17T23:59:08.744Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-17T17:41:46.091Z",
-    "lastSuccessAt": "2026-11-17T17:41:46.091Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-11-17T23:59:08.739Z",
+    "lastSuccessAt": "2026-11-17T23:59:08.739Z",
+    "lastRunStatus": "checked-5-posts"
   },
   "latestObservedPost": {
-    "id": "2122534533216268747",
-    "text": "@AdamHoltererer 6.1 Sol forever https://t.co/1aDFb686jX",
-    "url": "https://x.com/thsottiaux/status/2122534533216268747",
-    "postCreatedAt": "2026-11-17T03:37:22.000Z"
+    "id": "2122816458711548126",
+    "text": "@notjazii Team never stops. We'll get it right on all levels one day, in the meantime it's a pretty good jump on all fronts and cheaper/faster.",
+    "url": "https://x.com/thsottiaux/status/2122816458711548126",
+    "postCreatedAt": "2026-11-17T22:17:38.000Z"
   },
   "latest": {
     "reset": null,
